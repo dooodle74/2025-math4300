@@ -1,0 +1,37 @@
+Secant Method Case (a) (p0 = -3, p1 = -2):
+Iteration 1: p_n = -2.8333333333, f(p_n) = 0.8101851852
+Iteration 2: p_n = -2.9944751381, f(p_n) = -0.9339151575
+Iteration 3: p_n = -2.9081883745, f(p_n) = 0.0435077985
+Iteration 4: p_n = -2.9120292369, f(p_n) = 0.0021579635
+Iteration 5: p_n = -2.9122296837, f(p_n) = -0.0000054537
+Iteration 6: p_n = -2.9122291784, f(p_n) = 0.0000000007
+Iteration 7: p_n = -2.9122291785, f(p_n) = 0.0000000000
+
+Secant Method Case (b) (p0 = -2, p1 = -3):
+Iteration 1: p_n = -2.8333333333, f(p_n) = 0.8101851852
+Iteration 2: p_n = -2.9079283887, f(p_n) = 0.0462995716
+Iteration 3: p_n = -2.9124496404, f(p_n) = -0.0023800641
+Iteration 4: p_n = -2.9122285856, f(p_n) = 0.0000063999
+Iteration 5: p_n = -2.9122291784, f(p_n) = 0.0000000009
+Iteration 6: p_n = -2.9122291785, f(p_n) = -0.0000000000
+
+Secant Method Case (c) (p0 = -4, p1 = -2):
+Iteration 1: p_n = -2.3846153846, f(p_n) = 3.9667728721
+Iteration 2: p_n = -3.8612334802, f(p_n) = -17.1656602868
+Iteration 3: p_n = -2.6617916359, f(p_n) = 2.2964920153
+Iteration 4: p_n = -2.8033231878, f(p_n) = 1.0969571742
+Iteration 5: p_n = -2.9327517345, f(p_n) = -0.2243729996
+Iteration 6: p_n = -2.9107736764, f(p_n) = 0.0156968858
+Iteration 7: p_n = -2.9122107041, f(p_n) = 0.0001994160
+Iteration 8: p_n = -2.9122291953, f(p_n) = -0.0000001813
+Iteration 9: p_n = -2.9122291785, f(p_n) = 0.0000000000
+
+Secant Method Case (d) (p0 = -2, p1 = -4):
+Iteration 1: p_n = -2.3846153846, f(p_n) = 3.9667728721
+Iteration 2: p_n = -2.6412710567, f(p_n) = 2.4501056925
+Iteration 3: p_n = -3.0558864262, f(p_n) = -1.6926747121
+Iteration 4: p_n = -2.8864811276, f(p_n) = 0.2734835926
+Iteration 5: p_n = -2.9100446268, f(p_n) = 0.0235486100
+Iteration 6: p_n = -2.9122647548, f(p_n) = -0.0003840310
+Iteration 7: p_n = -2.9122291299, f(p_n) = 0.0000005241
+Iteration 8: p_n = -2.9122291785, f(p_n) = 0.0000000000
